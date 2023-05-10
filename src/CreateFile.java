@@ -20,12 +20,6 @@ public class CreateFile {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
-//        import java.io.IOException;
-//import java.nio.charset.StandardCharsets;
-//import java.nio.file.Files;
-//import java.nio.file.Path;
-//import java.nio.file.StandardOpenOption;
-//import java.util.List;
 
 
                 String filePath = "myFile";
